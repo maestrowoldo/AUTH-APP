@@ -23,7 +23,8 @@ MongoDB
 React Hook Form + Zod
  – Validação e controle de formulários
 
-📂 Estrutura do projeto
+## Estrutura do projeto
+```
 app/
  ├─ api/
  │   ├─ auth/
@@ -48,8 +49,8 @@ app/
  ├─ layout.tsx                    → Layout principal
  ├─ page.tsx                      → Página inicial (login)
  ├─ middleware.ts                 → Proteção de rotas com auth
-
-⚙️ Configuração e execução
+```
+## Configuração e execução
 1️⃣ Clonar o repositório
 git clone https://github.com/maestrowoldo/auth-app.git
 cd auth-app
